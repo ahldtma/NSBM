@@ -1,0 +1,24 @@
+@charset "utf-8";
+.container-fluid {
+
+    background-image: -webkit-linear-gradient(270deg,rgba(236,70,15,1.00) 0%,rgba(242,242,242,1.00) 50.78%,rgba(255,52,9,1.00) 100%), url(images/pexels-codioful-(formerly-gradienta)-7130495
+.jpg);
+    background-image: -moz-linear-gradient(270deg,rgba(236,70,15,1.00) 0%,rgba(242,242,242,1.00) 50.78%,rgba(255,52,9,1.00) 100%), url(images/pexels-codioful-(formerly-gradienta)-7130495
+.jpg);
+    background-image: -o-linear-gradient(270deg,rgba(236,70,15,1.00) 0%,rgba(242,242,242,1.00) 50.78%,rgba(255,52,9,1.00) 100%), url(images/pexels-codioful-(formerly-gradienta)-7130495
+.jpg);
+    background-image: linear-gradient(180deg,rgba(236,70,15,1.00) 0%,rgba(242,242,242,1.00) 50.78%,rgba(255,52,9,1.00) 100.00%), url(images/pexels-codioful-(formerly-gradienta)-7130495
+.jpg)
+    background-image: url(images/BK1.jpeg);
+    background-image: url(images/bk2.jpg);
+    padding-left: 23px;
+
+
+
+
+
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #545252;
+}
